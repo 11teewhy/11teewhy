@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning #frontEnd
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me: Skype~teewhyme11@gmail.com
+- # codepen.io/11teewhy
 
 <!---
 11teewhy/11teewhy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
