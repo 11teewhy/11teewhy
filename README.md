@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @11teewhy
 - 👀 I’m interested in webDevelopment
-- 🌱 Proficient with CSS and JS Framework
+- 🌱 working to be proficient in CSS and JS Frameworks
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me: Skype~teewhyme11@gmail.com
 - ✎ codepen.io/11teewhy
